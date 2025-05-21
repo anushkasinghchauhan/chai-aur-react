@@ -86,7 +86,7 @@ function App() {
         <label htmlFor="characterInput">Characters</label>
       </div>
 
-
+     {/* Project completed */}
        </div>
 
        </div>
