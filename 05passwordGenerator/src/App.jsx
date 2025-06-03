@@ -87,6 +87,7 @@ function App() {
       </div>
 
      {/* Project completed */}
+     
        </div>
 
        </div>
